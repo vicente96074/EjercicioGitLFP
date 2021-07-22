@@ -1,7 +1,11 @@
 Quién iba a prever que el amor, ese informal
 se dedicara a ellos tan formales
 
+<<<<<<< HEAD
 Nientras almorzaban por primera vez
+=======
+Mientras almorzaban por primera vez
+>>>>>>> 0a5c0b9a74911a91c29cab641b613cb9754ffc59
 ella muy lenta y él no tanto
 y hablaban con sospechosa objetividad
 de grandes temas en dos volúmenes
